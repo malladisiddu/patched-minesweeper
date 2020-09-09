@@ -7,7 +7,9 @@ Reversed Minesweeper and has put flags on all the mines while starting the game
 ### Features 
 **Before Reversed**
 ![Original](/Original.jpg)
+
 **After Reversing** 
 ![Hacked](/Hacked.jpg) 
+
 **Winner :)** 
 ![Winner](/Winner.jpg)
