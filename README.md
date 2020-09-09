@@ -5,7 +5,7 @@ Reversed Minesweeper and has put flags on all the mines while starting the game
  
  [2] IDA Freeware 
 ### Features 
-### Before Reversed
+### Before Reversing
 
 ![Original](/Original.jpg)
 
