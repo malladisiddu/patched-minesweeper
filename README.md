@@ -1,5 +1,6 @@
 # Patched-Minesweeper 
-Reversed Minesweeper and has put flags on all the mines while starting the game
+Reversed Minesweeper and has put flags on all the mines while starting the game.
+Check out here the hacked/patched minesweeper [game](hackedminesweeper.exe)
 ### Tools Used: 
  [1] OllyDbg 
  
